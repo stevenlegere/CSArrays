@@ -1,0 +1,14 @@
+/Users/stevenlegere/Documents/Development/Repositories/PracticeCode/stevesPlayground/CSArrays/CSArrays/bin/Debug/net7.0/CSArrays
+/Users/stevenlegere/Documents/Development/Repositories/PracticeCode/stevesPlayground/CSArrays/CSArrays/bin/Debug/net7.0/CSArrays.deps.json
+/Users/stevenlegere/Documents/Development/Repositories/PracticeCode/stevesPlayground/CSArrays/CSArrays/bin/Debug/net7.0/CSArrays.runtimeconfig.json
+/Users/stevenlegere/Documents/Development/Repositories/PracticeCode/stevesPlayground/CSArrays/CSArrays/bin/Debug/net7.0/CSArrays.dll
+/Users/stevenlegere/Documents/Development/Repositories/PracticeCode/stevesPlayground/CSArrays/CSArrays/bin/Debug/net7.0/CSArrays.pdb
+/Users/stevenlegere/Documents/Development/Repositories/PracticeCode/stevesPlayground/CSArrays/CSArrays/obj/Debug/net7.0/CSArrays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stevenlegere/Documents/Development/Repositories/PracticeCode/stevesPlayground/CSArrays/CSArrays/obj/Debug/net7.0/CSArrays.AssemblyInfoInputs.cache
+/Users/stevenlegere/Documents/Development/Repositories/PracticeCode/stevesPlayground/CSArrays/CSArrays/obj/Debug/net7.0/CSArrays.AssemblyInfo.cs
+/Users/stevenlegere/Documents/Development/Repositories/PracticeCode/stevesPlayground/CSArrays/CSArrays/obj/Debug/net7.0/CSArrays.csproj.CoreCompileInputs.cache
+/Users/stevenlegere/Documents/Development/Repositories/PracticeCode/stevesPlayground/CSArrays/CSArrays/obj/Debug/net7.0/CSArrays.dll
+/Users/stevenlegere/Documents/Development/Repositories/PracticeCode/stevesPlayground/CSArrays/CSArrays/obj/Debug/net7.0/refint/CSArrays.dll
+/Users/stevenlegere/Documents/Development/Repositories/PracticeCode/stevesPlayground/CSArrays/CSArrays/obj/Debug/net7.0/CSArrays.pdb
+/Users/stevenlegere/Documents/Development/Repositories/PracticeCode/stevesPlayground/CSArrays/CSArrays/obj/Debug/net7.0/CSArrays.genruntimeconfig.cache
+/Users/stevenlegere/Documents/Development/Repositories/PracticeCode/stevesPlayground/CSArrays/CSArrays/obj/Debug/net7.0/ref/CSArrays.dll
