@@ -115,5 +115,5 @@ foreach (char i in charMessage)
 }
 string new_message = new string(charMessage);
 
-Console.WriteLine(new_message);
-Console.WriteLine($"'0' appears {x} times.");
+Console.WriteLine(new_message); // .god yzal eht revo spmuj xof nworb kciuq ehT
+Console.WriteLine($"'0' appears {x} times."); // '0' appears 4 times.
