@@ -94,3 +94,26 @@ foreach (var orderID in orderIDs)
 {
     Console.WriteLine(orderID);
 }
+
+/*
+    Convert the message into a char array and then reverse the chars.
+    Count the number of o's in the message.
+    Convert it back to a string and print it out.
+*/
+
+string str = "The quick brown fox jumps over the lazy dog.";
+
+char[] charMessage = str.ToCharArray();
+
+Array.Reverse(charMessage);
+
+int x = 0;
+foreach (char i in charMessage)
+{
+    if (i == 'o')
+    { x++; }
+}
+string new_message = new string(charMessage);
+
+Console.WriteLine(new_message);
+Console.WriteLine($"'0' appears {x} times.");
